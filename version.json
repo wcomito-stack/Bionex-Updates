@@ -1,6 +1,7 @@
 {
-    "version": "4.72",
-    "url": "https://github.com/wcomito-stack/Bionex-Updates/releases/download/v4.72/BionexServiceTool_Setup_v4.72.exe",
+    "version": "4.77",
+    "url": "https://github.com/wcomito-stack/Bionex-Updates/releases/download/v4.77/BionexServiceTool_Setup_v4.77.exe",
     "notes": "Added secure login mode (Ctrl+Alt+Shift+B) and auto-updater."
 }
+
 
